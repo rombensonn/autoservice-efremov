@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="10" fill="#c8ff1a"/>
-  <text x="32" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="900" fill="#111311">MTM</text>
+  <rect width="64" height="64" rx="12" fill="#191b1f"/>
+  <path d="M18 43 27 17h10l9 26h-8l-2-6H27l-2 6h-7Zm11-13h6l-3-9-3 9Z" fill="#fff"/>
+  <path d="M14 48h36v5H14z" fill="#c42b1f"/>
 </svg>

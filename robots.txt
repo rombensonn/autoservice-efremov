@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://rombensonn.github.io/autoservice-efremov/sitemap.xml
